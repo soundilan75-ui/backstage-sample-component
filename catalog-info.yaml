@@ -7,6 +7,5 @@ metadata:
     github.com/project-slug: soundilan75-ui/backstage-sample-component
 spec:
   type: service
-  group: team-a
-  owner: team-a:user
+  owner: team-a
   lifecycle: experimental
