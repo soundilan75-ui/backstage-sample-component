@@ -4,8 +4,9 @@ metadata:
   name: sample-service
   description: demo service
   annotations:
-    github.com/project-slug: ramannkhanna2/test
+    github.com/project-slug: soundilan75-ui/backstage-sample-component
 spec:
   type: service
-  owner: team-a:default/user
+  group: team-a
+  owner: team-a:user
   lifecycle: experimental
