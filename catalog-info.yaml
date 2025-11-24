@@ -7,5 +7,5 @@ metadata:
     github.com/project-slug: ramannkhanna2/test
 spec:
   type: service
-  owner: guests
+  owner: team-a:default/user
   lifecycle: experimental
